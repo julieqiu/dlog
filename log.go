@@ -1,5 +1,5 @@
-// Package log supports structured and unstructured logging with levels.
-package log
+// Package dlog supports structured and unstructured logging with levels.
+package dlog
 
 import (
 	"context"
